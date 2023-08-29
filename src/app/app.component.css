@@ -1,34 +1,34 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
 
-.container{
+.container {
   width: 100%;
   height: 100%;
   /* background-color: black; */
   display: flex;
 }
 
-.container .left{
+.container .left {
   width: 50%;
   height: 97vh;
   display: flex;
   flex-direction: column;
 }
 
-.container .left .btn{
+.container .left .btn {
   width: 40px;
   height: 40px;
   font-weight: bolder;
   font-size: 20px;
   color: black;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   border: 3px solid black;
 }
 
-.container .left .poqody{
+.container .left .poqody {
   margin-top: 5%;
   width: 100px;
   margin-bottom: 20px;
@@ -37,27 +37,27 @@
   display: flex;
   flex-direction: column;
   font-size: 40px;
-  font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
 }
 
-.container .left .poqody hr{
+.container .left .poqody hr {
   height: 5px;
   background-color: black;
 }
 
-.container .left p{
+.container .left p {
   margin-top: -20px;
   margin-left: 55px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 10px;
 }
 
-.container .left h1{
+.container .left h1 {
   margin-left: 55px;
   margin-top: 30px;
   font-size: 30px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
 }
 
@@ -67,34 +67,34 @@
   background-color: black;
   color: white;
   font-size: 15px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   margin-left: 55px;
   margin-top: 20px;
 }
 
-.container .right{
+.container .right {
   width: 50%;
   height: 98vh;
-  background-color: #CEDEBD;
+  background-color: #cedebd;
   margin-top: -3px;
   border-radius: 5px;
 }
 
-.container .right .h1{
+.container .right .h1 {
   margin-left: 55px;
   margin-top: 100px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   word-spacing: 5px;
 }
 
-.container .right h1:nth-child(2){
+.container .right h1:nth-child(2) {
   margin-left: 55px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 50px;
   width: 50px;
 }
 
-.container .right h5{
+.container .right h5 {
   margin-left: 55px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
